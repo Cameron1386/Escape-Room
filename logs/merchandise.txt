@@ -1,0 +1,41 @@
+[2025-07-28 08:12:14] PURCHASE: Office Chairs - Qty: 15
+[2025-07-28 08:13:59] PURCHASE: Ammonium Nitrate (Fertilizer) - Qty: 40
+[2025-07-28 09:02:45] PURCHASE: Copy Paper (500 sheets) - Qty: 12
+[2025-07-28 09:45:21] PURCHASE: Ball Bearings - Qty: 200
+[2025-07-28 10:11:37] PURCHASE: Laptop Computers - Qty: 5
+[2025-07-28 10:44:08] PURCHASE: Steel Pipes (2 inch) - Qty: 25
+[2025-07-28 11:09:55] PURCHASE: Extension Cords - Qty: 10
+[2025-07-28 12:15:43] PURCHASE: Pressure Cookers - Qty: 18
+[2025-07-28 12:59:16] PURCHASE: Safety Gloves - Qty: 30
+[2025-07-28 13:33:42] PURCHASE: Wiring Kits - Qty: 75
+[2025-07-28 14:10:07] PURCHASE: Backpacks - Qty: 22
+[2025-07-28 14:47:29] PURCHASE: Printer Ink Cartridges - Qty: 6
+[2025-07-28 15:19:58] PURCHASE: Metal Screws (assorted) - Qty: 300
+[2025-07-28 16:01:22] PURCHASE: Detonators (Industrial Mining Supply) - Qty: 50
+[2025-07-28 16:38:13] PURCHASE: Flash Drives (16GB) - Qty: 10
+[2025-07-28 17:04:55] PURCHASE: Duct Tape - Qty: 40
+[2025-07-28 17:39:41] PURCHASE: Batteries (9V) - Qty: 100
+[2025-07-28 18:22:09] PURCHASE: Plastic Containers - Qty: 12
+[2025-07-28 18:57:26] PURCHASE: Steel Shrapnel Scrap - Qty: 150
+[2025-07-28 19:41:15] PURCHASE: First Aid Kits - Qty: 5
+[2025-07-28 20:22:38] PURCHASE: Gardening Tools - Qty: 8
+[2025-07-28 21:04:20] PURCHASE: Gasoline Cans - Qty: 15
+[2025-07-28 21:46:59] PURCHASE: Protective Goggles - Qty: 10
+[2025-07-28 22:19:33] PURCHASE: Nails (Large Box) - Qty: 500
+[2025-07-28 22:58:02] PURCHASE: Insulation Foam - Qty: 12
+[2025-07-29 08:22:41] PURCHASE: Delivery Truck Rental - 3 Days
+[2025-07-29 09:12:06] PURCHASE: Cleaning Supplies (Assorted) - Qty: 20
+[2025-07-29 09:47:18] PURCHASE: Smartphone Chargers - Qty: 12
+[2025-07-29 10:30:55] PURCHASE: LED Flashlights - Qty: 14
+[2025-07-29 11:18:39] PURCHASE: Gunpowder (Pyrotechnics License) - Qty: 60
+[2025-07-29 12:02:11] PURCHASE: Blank ID Cards - Qty: 50
+[2025-07-29 13:19:24] PURCHASE: Steel Drums - Qty: 10
+[2025-07-29 14:44:53] PURCHASE: Heavy Duty Locks - Qty: 6
+[2025-07-29 15:11:39] PURCHASE: Protective Vests - Qty: 8
+[2025-07-29 16:30:05] PURCHASE: Tool Kits - Qty: 4
+[2025-07-29 17:55:47] PURCHASE: Ammunition Casings - Qty: 200
+[2025-07-29 18:21:19] PURCHASE: Refrigeration Units (small) - Qty: 2
+[2025-07-29 19:03:44] PURCHASE: Soldering Kits - Qty: 6
+[2025-07-29 19:44:28] PURCHASE: Power Supplies (12V) - Qty: 8
+[2025-07-29 20:11:52] PURCHASE: Zip Ties - Qty: 120
+[2025-07-29 20:46:30] PURCHASE: Hand Tools (wrenches, hammers) - Qty: 10
